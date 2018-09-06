@@ -1,11 +1,11 @@
 # Site settings
-title: BY Blog
-SEOTitle: 老汤的博客 | BY Blog
+title: orchid Blog
+SEOTitle: 老汤的博客 | orchid Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: jttangjiajun@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 老汤的博客, orchidtjj, Android, Java, Spring, Python, Ionic, Angular "
-url: "https://orchidtjj.github.io/"          # your host, for absolute URL
+url: "https://orchidtjj.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/orchidTJJ/orchidtjj.github.io.git" # you code repository
 
@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·BY",
+        title: "简书",
         href: "https://www.jianshu.com/u/308dfe2a6f6e"
     }
 ]
