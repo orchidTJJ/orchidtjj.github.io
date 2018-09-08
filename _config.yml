@@ -12,7 +12,7 @@ github_repo: "https://github.com/orchidTJJ/orchidtjj.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "God bless me"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
