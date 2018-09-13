@@ -17,7 +17,7 @@ tags:
 
 ## 效果
 
-![](https://github.com/orchidTJJ/orchidtjj.github.io/blob/master/img/source/checkbox.gif)
+![](https://raw.githubusercontent.com/orchidTJJ/orchidtjj.github.io/dc25cc6f83528398e7025543cd9d11ed62d552b5/img/source/checkbox.gif)
 
 
 ## 代码	
