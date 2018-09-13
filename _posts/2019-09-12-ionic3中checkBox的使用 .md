@@ -15,6 +15,10 @@ tags:
 
 简单记录一下ionic3中常见的开发控件使用
 
+## 效果
+
+![](https://github.com/orchidTJJ/orchidtjj.github.io/blob/master/img/source/checkbox.gif)
+
 
 ## 代码	
 	
