@@ -4,7 +4,7 @@ title:     ionic3中checkBox的使用
 subtitle:   
 date:       2018-09-12
 author:     orchidtjj
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
     - ionic3
